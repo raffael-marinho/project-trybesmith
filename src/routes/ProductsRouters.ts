@@ -1,7 +1,7 @@
 import { Router } from 'express';
 
-import ProductController from '../controllers/Product.controller';
-import Product from '../middleware/products';
+import ProductController from '../controllers/ProductController';
+import Product from '../middleware/Products';
 
 const productController = new ProductController();
 
