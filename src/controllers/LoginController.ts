@@ -19,4 +19,4 @@ class LoginController {
   };
 }
 
-export default LoginController;
+export default LoginController; 
